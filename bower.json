@@ -1,0 +1,20 @@
+{
+  "name": "ResponsiveMultiLevelMenuWithMobileStyle",
+  "homepage": "https://github.com/lilitGrigoryan/responsive-multi-menu.git",
+  "version": "1.1.2",
+  "main": [
+    "js/responsivemultimenu.js",
+    "css/responsivemultimenu.css"
+  ],
+  "license": "MIT",
+  "moduleType": "globals",
+  "main": [
+    "less/bootstrap.less",
+    "dist/js/bootstrap.js"
+  ],
+  "ignore": [
+  ],
+  "dependencies": {
+    "jquery": "1.9.1 - 2"
+  }
+}
